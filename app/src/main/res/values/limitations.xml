@@ -24,6 +24,7 @@
     </string-array>
     <string-array name="allowed_products">
         <item>NOOK</item>
+        <item>sydney_j</item>
         <item>Max</item>
         <item>Max2</item>
         <item>C67ML_Carta2</item>
